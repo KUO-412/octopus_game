@@ -13,5 +13,5 @@
 
 ### 線上試玩
 
-👉 [立即試玩 GitHub Pages 版本](https://kuo-412.github.io/octopus_game/)
+👉 [立即試玩 GitHub Pages 版本]([https://kuo-412.github.io/octopus_game/])
 
